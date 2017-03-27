@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.homepage    = "https://github.com/the-robear/quill-rails"
   s.licenses    = ["BSD 3 Clause", "Copyright (c) 2013, salesforce.com"]
 
-  s.summary     = "Quill.js for Rails 3.1/4.0"
+  s.summary     = "Quill.js for Rails 3.1/4.0/5.x"
   s.description = "This gem provides the Quill.js Rich Text Editor assets and view helper for your Rails 3.1/4.0 application."
   s.files       = Dir["{app,lib}/**/*"] + ["LICENSE", "Gemfile", "README.md"]
   s.version     = Quill::Rails::VERSION
